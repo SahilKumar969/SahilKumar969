@@ -27,7 +27,7 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilKupta969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar969&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Stats Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar969&layout=compact&theme=radical&hide_border=true&langs_count=10" height="165" alt="Language Graph" />
 </div>
 
